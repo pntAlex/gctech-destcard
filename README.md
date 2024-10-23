@@ -74,6 +74,8 @@ To install and launch the project, follow these steps:
 
 ## Assumptions and Future Improvements
 
+- Layout improvement when multiple destinations (horizontal scroll basically)
+- Typescript setup
 - Destination data would normally be fetched from an API.
 - The rating system would be connected to a backend to save votes.
 - Images and avatars would be hosted on a CDN in a production environment.

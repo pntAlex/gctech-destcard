@@ -8,12 +8,16 @@ const destinations = [
     description: "Découvrez cette magnifique ville du sud de la France, réputée pour son architecture historique, ses places animées et son ambiance méditerranéenne.",
     previewPhotos: [
       {
-        src: "/images/montpellier.webp",
-        alt: "Montpellier cathedral",
+        src: "/images/montpellier-1.webp",
+        alt: "Montpellier photo 1 alt",
       },
       {
-        src: "/images/versailles.webp",
-        alt: "Montpellier cathedral",
+        src: "/images/montpellier-2.webp",
+        alt: "Montpellier photo 2 alt",
+      },
+      {
+        src: "/images/montpellier-3.webp",
+        alt: "Montpellier photo 3 alt",
       }
     ],
     tags: [
@@ -31,8 +35,20 @@ const destinations = [
   //   id: 2,
   //   name: "Château de Versailles qsdf qsdf qsfd",
   //   description: "Explorez l'opulence royale dans ce palais historique et ses jardins somptueux. Ancienne résidence des rois de France, le Château de Versailles est un chef-d'œuvre de l'architecture baroque.",
-  //   previewSrc: "/images/versailles.webp",
-  //   previewAlt: "Château de Versailles",
+  //   previewPhotos: [
+  //     {
+  //       src: "/images/versailles-1.webp",
+  //       alt: "Versailles photo 1 alt",
+  //     },
+  //     {
+  //       src: "/images/versailles-2.webp",
+  //       alt: "Versailles photo 2 alt",
+  //     },
+  //     {
+  //       src: "/images/versailles-3.webp",
+  //       alt: "Versailles photo 3 alt",
+  //     }
+  //   ],
   //   tags: [
   //     { label: "France", link: "/#" },
   //     { label: "Histoire", link: "/#" }
@@ -46,19 +62,27 @@ const destinations = [
   // },
   // {
   //   id: 3,
-  //   name: "Mont Saint-Michel",
-  //   description: "Découvrez cette île pittoresque avec son abbaye médiévale emblématique. Classé au patrimoine mondial de l'UNESCO, le Mont Saint-Michel est une merveille architecturale et naturelle.",
-  //   previewSrc: "/images/mont-saint-michel.webp",
-  //   previewAlt: "Mont Saint-Michel",
+  //   name: "Machu Picchu",
+  //   description: "Découvrez cette ancienne cité inca perchée dans les montagnes des Andes péruviennes. Classé au patrimoine mondial de l'UNESCO, Machu Picchu est une merveille archéologique et un témoignage fascinant de la civilisation inca.",
+  //   previewPhotos: [
+  //     {
+  //       src: "/images/machu-picchu-1.webp",
+  //       alt: "Machu Picchu photo 1 alt",
+  //     },
+  //     {
+  //       src: "/images/machu-picchu-2.webp",
+  //       alt: "Machu Picchu photo 2 alt",
+  //     },
+  //   ],
   //   tags: [
-  //     { label: "France", link: "/#" },
+  //     { label: "Pérou", link: "/#" },
   //     { label: "Patrimoine", link: "/#" }
   //   ],
   //   communityRatings: [
-  //     { name: "Claire", description: "Vue à couper le souffle", avatarSrc: "https://i.pravatar.cc/100" },
-  //     { name: "Thomas", description: "Expérience unique", avatarSrc: "https://i.pravatar.cc/100" },
-  //     { name: "Émilie", description: "Magique à marée haute", avatarSrc: "https://i.pravatar.cc/100" },
-  //     { name: "Antoine", description: "Histoire fascinante", avatarSrc: "https://i.pravatar.cc/100" },
+  //     { name: "Maria", description: "Vue spectaculaire", avatarSrc: "https://i.pravatar.cc/100" },
+  //     { name: "Carlos", description: "Expérience inoubliable", avatarSrc: "https://i.pravatar.cc/100" },
+  //     { name: "Lucia", description: "Site mystique", avatarSrc: "https://i.pravatar.cc/100" },
+  //     { name: "Pedro", description: "Histoire fascinante", avatarSrc: "https://i.pravatar.cc/100" },
   //   ]
   // }
 ]
